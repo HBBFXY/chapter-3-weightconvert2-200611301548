@@ -1,5 +1,5 @@
-initial_earth_weight = 60  
-lunar_ratio = 0.165  
+initial_earth_=50
+lunar_percent=0.165  
 print()
 for year in range(1, 11):
    earth_weight=initial_earth_weight+0.5*year
